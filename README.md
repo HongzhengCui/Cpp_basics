@@ -31,10 +31,3 @@ A program that computes the average temperature from a dataset, demonstrating fi
 
 ### [Unit Convert](UnitConvert)
 A converter that handles different units of measurement, illustrating the use of functions and basic arithmetic in C++.
-
-## Getting Started
-To get started with these projects, clone the repository and navigate to the project of interest:
-
-```bash
-git clone https://github.com/yourusername/cpp_basics.git
-cd cpp_basics/<project_name>
